@@ -1,6 +1,6 @@
 ﻿namespace Cinema.DAL.Entities
 {
-    internal class BaseEntity
+    public class BaseEntity
     {
         public Guid Id { get; set; }
     }

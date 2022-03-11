@@ -1,9 +1,10 @@
 ﻿namespace Cinema.DAL.Entities
 {
-    internal class MovieEntity : BaseEntity
+    public class MovieEntity : BaseEntity
     {
+        public IEnumerable <SessionEntity> Session { get; set; }
+
         public AttachmentEntity Attachment { get; set; }
         public Guid AttachmentId { get; set; }
-        public IEnumerable <SessionEntity> Session { get; set; }
     }
 }
