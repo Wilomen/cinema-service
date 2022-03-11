@@ -213,9 +213,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samantha\\Desktop\\cinema-service\\cinema-service\\cinema-service\\cinema-service.csproj",
-      "projectName": "cinema-service",
-      "projectPath": "C:\\Users\\Samantha\\Desktop\\cinema-service\\cinema-service\\cinema-service\\cinema-service.csproj",
+      "projectUniqueName": "C:\\Users\\Samantha\\Desktop\\cinema-service\\cinema-service\\cinema-service\\Cinema.API.csproj",
+      "projectName": "Cinema.API",
+      "projectPath": "C:\\Users\\Samantha\\Desktop\\cinema-service\\cinema-service\\cinema-service\\Cinema.API.csproj",
       "packagesPath": "C:\\Users\\Samantha\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Samantha\\Desktop\\cinema-service\\cinema-service\\cinema-service\\obj\\",
       "projectStyle": "PackageReference",
@@ -269,7 +269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

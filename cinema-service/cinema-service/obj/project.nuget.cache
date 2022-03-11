@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zBDO+MS3lD1yRpVjfwDQnRvDSOqP6bv2RuVQK9uTcei3VQWMpbdK7HIvSOCxN+APuJ3Fl1HbTJ0qJMmOHQpm9g==",
+  "dgSpecHash": "nacOGMSzfHJ3W/B0wZelYav2bYkvixYkSfWUXHiCf+GrQv3PnTq45OGGTxP/KnS8J244RjtSi0qpbfHOvsIoHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samantha\\Desktop\\cinema-service\\cinema-service\\cinema-service\\cinema-service.csproj",
+  "projectFilePath": "C:\\Users\\Samantha\\Desktop\\cinema-service\\cinema-service\\cinema-service\\Cinema.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samantha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Samantha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
